@@ -12,3 +12,6 @@ Branches would be helpful with work because I don't want to change the master st
 
 How do the diagrams help you visualize the branch structure?
 It tells me what operates on what.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The two branches have all changes and deletions combined. 
