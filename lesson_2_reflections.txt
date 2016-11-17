@@ -10,3 +10,5 @@ You can only add something to the staging area when you are logically changing s
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 Branches would be helpful with work because I don't want to change the master starter file, but I do want to change my file for my project. Branches let me keep working on the file and keep track of changes, while not changing that master file and keeping it intact for the next person.
 
+How do the diagrams help you visualize the branch structure?
+It tells me what operates on what.
