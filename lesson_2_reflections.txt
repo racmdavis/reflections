@@ -6,3 +6,7 @@ The staging area allows you to make changes that will be committed to the workin
 
 How can you use the staging area to make sure you have one commit per logical change?
 You can only add something to the staging area when you are logically changing something.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Branches would be helpful with work because I don't want to change the master starter file, but I do want to change my file for my project. Branches let me keep working on the file and keep track of changes, while not changing that master file and keeping it intact for the next person.
+
