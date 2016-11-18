@@ -15,3 +15,6 @@ It tells me what operates on what.
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 The two branches have all changes and deletions combined. We represent it as we do in the diagram because it involves operating on the repository.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Automatically merging does not take into consideration conflicts that might occur or deletions that people might have made.
