@@ -14,4 +14,4 @@ How do the diagrams help you visualize the branch structure?
 It tells me what operates on what.
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
-The two branches have all changes and deletions combined. 
+The two branches have all changes and deletions combined. We represent it as we do in the diagram because it involves operating on the repository.
