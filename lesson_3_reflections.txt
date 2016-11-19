@@ -9,3 +9,6 @@ Forks involve making a copy in github. Clones involve making a copy from github 
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 It is good to have a copy of the last known state of the remote stored locally so you can easily work on it from your computer when you need to and then just push it when you need to.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+I would create a pull request from a file from a friend to merge their file with one of mine, which could get confusing. It would be harder to share files that people changed separately by usb or email. It would be easier to commit directly on github or maybe on google docs so you can see the changes in real time.
