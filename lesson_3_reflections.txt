@@ -6,3 +6,6 @@ You can choose when to pull changes which saves unecessary files being copied, w
 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 Forks involve making a copy in github. Clones involve making a copy from github to your local computer. Making a branch involves taking a file and making multiple pathways for it to follow that are individually edited and committed.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+It is good to have a copy of the last known state of the remote stored locally so you can easily work on it from your computer when you need to and then just push it when you need to.
